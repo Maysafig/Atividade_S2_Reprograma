@@ -135,13 +135,3 @@ Operador  | Descrição
 >=         | Maior ou igual a 
 <          | Menor que 
 <=         | Menor ou igual a 
-
-**Lógicos:**
-
-Operador  | Descrição
---------- | ------
-&&         | E
-// (Barra em pé)       | Ou
-!          | Negação 
-
-
