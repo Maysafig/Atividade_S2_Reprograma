@@ -6,8 +6,8 @@ const taxa = 0.10
 
 let vlr_da_taxa = vlr_jantar * taxa
 
-console.log(vlr_da_taxa)
+console.log(`O valor da taxa é de ${vlr_da_taxa}`) // O valor é de 10
 
 let vlr_final = vlr_jantar + vlr_da_taxa
 
-console.log(vlr_final)
+console.log(`O valor a ser pago é de ${vlr_final}`) //O valor é de 110

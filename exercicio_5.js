@@ -5,4 +5,4 @@ let num2 = 10
 let num3 = 30
 
 let media = (num1 + num2 + num3) / 3
-console.log(media)
+console.log(`A média dos números é ${media}`) // O resultado é 20

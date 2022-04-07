@@ -5,4 +5,4 @@ let desconto = (20/100)
 
 vlr_com_desconto = vlr_mercadoria - (vlr_mercadoria * desconto)
 
-console.log(vlr_com_desconto)
+console.log(`O valor a pagar com desconto é ${vlr_com_desconto}`) // O valor é R$ 160,00

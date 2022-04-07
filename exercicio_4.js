@@ -11,4 +11,4 @@ totalKm = km_percorrido * km * dias_locacao
 totalCarro = dias_locacao * carro 
 
 vlrApagar = totalKm + totalCarro
-console.log(vlrApagar)
+console.log(`O preço é pagar é de ${vlrApagar}`) // O resultado é 525

@@ -4,4 +4,4 @@ let tempo /*horas*/ = 3
 let distancia /*quilometros*/ = 240
 let velocidade_media = distancia / tempo
 
-console.log(velocidade_media)
+console.log(`A velocidade média esperar para viagem é de ${velocidade_media}`) // O resultado é 80
