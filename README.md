@@ -100,38 +100,3 @@ Termos: unário, binário e operando
 
 Precisamos de operadores para realizar qualquer operação em uma linguagem de programação. O javascript também tem seus operadores aritméticos, de atribuição, lógicos entre outros.
 
-**Aritméticos:**
-
-Operador  | Descrição
---------- | ------
-+         | Adição
--         | Subtração
-*         | Multiplicação
-/         | Divisão
-%         | Módulo ou resto da divisão
-++        | Incremento
---        | Decremento
-
-
-**Atribuição:**
-
-Operador  | Descrição
---------- | ------
-=         | Atribuição
-+=        | Atribuição de soma
--=        | Atribuição de subtração
-*=        | Atribuição de multiplicação
-/=        | Atribuição de divisão
-%=        | Atribuição de resto
-
-**Comparação:**
-
-Operador  | Descrição
---------- | ------
-==         | Igual a 
-===        | Igual a (tanto valor quanto o tipo
-!=         | Diferente de 
->          | Maior que 
->=         | Maior ou igual a 
-<          | Menor que 
-<=         | Menor ou igual a 
